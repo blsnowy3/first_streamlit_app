@@ -10,3 +10,5 @@ streamlit.text("🥗 Kale")
 streamlit.text("🐔 Egg")
 streamlit.text("🥑 Avocado")
 streamlit.text("🍞 Cheese")
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
